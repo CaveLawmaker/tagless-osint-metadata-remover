@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/tagless/
+  description: "Windows tray app that removes EXIF and other metadata from every file you share. A counter-OSINT privacy tool: location, device, dates and your name stay"
+  topics: osint, privacy, metadata-remover, exif-remover, exif, opsec, counter-osint, tray-app
